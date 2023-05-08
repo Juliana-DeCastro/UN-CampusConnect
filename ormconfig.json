@@ -1,0 +1,12 @@
+{
+    "type": "mssql",
+    "host": "HOMEPC2022\\SQLDEV",
+    "port": 1443,
+    "username": "sa",
+    "password": "*Cambiar123*",
+    "database": "demo",
+    "entities": ["dist/**/*.entity{.ts,.js}"],
+    "synchronize": true
+  }
+
+  
